@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HannyJPG/HannyJPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy HannyJPG
 
-Here are some ideas to get you started:
+### 💻 Estudiante de Ingeniería de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  🐍 Python &nbsp;|Pequeños proyectos y videojuegos desarrollados para practicar programación.p;
+  ☕ Java &nbsp;|;
+  🌐 HTML &nbsp;|&nbsp;
+  🎨 CSS &nbsp;|&nbsp;
+  💻 Desarrollo Web
+</p>
+
+</div>
+
+---
+
+## 🖥️ whoami
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  > whoami                                    │
+│                                              │
+│  HannyJPG                                    │
+│  Software Engineering Student                │
+│                                              │
+│  > status                                    │
+│                                              │
+│  🟢 Aprendiendo y construyendo proyectos     │
+│                                              │
+│  > focus                                     │
+│                                              │
+│  Web Development • Python • Java             │
+│                                              │
+╰──────────────────────────────────────────────╯
